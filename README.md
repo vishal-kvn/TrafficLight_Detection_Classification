@@ -68,3 +68,16 @@ python export_inference_graph.py \
 jupyter notebook --ip=0.0.0.0 --no-browser #Ensure that a rule is added to the security group to accept inbound traffic on port 8888.
 ```
 Copy the IP address of the ec2 instance and view the notebook and run all cells
+
+### Detection and Classification Results      
+![alt-text](./results/ssd_image1.png)
+![alt-text](./results/ssd_image2.png)
+![alt-text](./results/ssd_image3.png)
+![alt-text](./results/ssd_image4.png)
+![alt-text](./results/ssd_image5.png)
+![alt-text](./results/ssd_image6.png)
+![alt-text](./results/ssd_image7.png)
+![alt-text](./results/ssd_image8.png)
+![alt-text](./results/ssd_image9.png)
+![alt-text](./results/ssd_image10.png)
+![alt-text](./results/ssd_image11.png)
