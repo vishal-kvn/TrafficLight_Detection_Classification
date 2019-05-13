@@ -1,6 +1,6 @@
 # TrafficLight_Detection_Classification
 
-Transfer learning has been used to detect and classify traffic lights. The following models were cosndiderd -
+Transfer learning has been used to detect and classify traffic lights. The following models were considered -
 * (ssd_mobilenet_v1_coco_2018_01_28)[http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v1_coco_2018_01_28.tar.gz]
 * (faster_rcnn_resnet101_coco_2018_01_28)[http://download.tensorflow.org/models/object_detection/faster_rcnn_resnet101_coco_2018_01_28.tar.gz]
 
