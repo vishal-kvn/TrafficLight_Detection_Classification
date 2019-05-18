@@ -1,15 +1,15 @@
 # TrafficLight_Detection_Classification
 
 Transfer learning has been used to detect and classify traffic lights. The following models were considered -
-* (ssd_mobilenet_v1_coco_2018_01_28)[http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v1_coco_2018_01_28.tar.gz]
-* (faster_rcnn_resnet101_coco_2018_01_28)[http://download.tensorflow.org/models/object_detection/faster_rcnn_resnet101_coco_2018_01_28.tar.gz]
+* [ssd_mobilenet_v1_coco_2018_01_28](http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v1_coco_2018_01_28.tar.gz)
+* [faster_rcnn_resnet101_coco_2018_01_28](http://download.tensorflow.org/models/object_detection/faster_rcnn_resnet101_coco_2018_01_28.tar.gz)
 
 ## Model Training Steps
 
 An [AWS Deep Learning AMI](https://aws.amazon.com/marketplace/pp/B077GCH38C) has been used for training the model. The following steps were used -
 
 ### Installing Dependencies
-The training dependencies can be installed by following the steps outlined on (this page)[https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md]
+The training dependencies can be installed by following the steps outlined on [this page](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md)
 
 ### Download [Tensorflow models](https://github.com/tensorflow/models)
 ```
